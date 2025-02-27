@@ -87,17 +87,6 @@ Follow the [Getting Started Guide](Open_Integrity_Getting-Started.md) to:
 
 For a deeper dive, check out our [Problem Statement](Open_Integrity_Problem_Statement.md) and **[Architecture Overview](Open_Integrity_Architecture.md)**.
 
-## 🤝 How to Contribute
-
-We welcome contributions from developers, researchers, and security experts!
-
-1. Read our **[Contributing Guide](CONTRIBUTING.md)**
-2. Fork the repository & create a feature branch
-3. Implement your feature or fix
-4. Submit a **Pull Request** for review
-
-📜 All contributors must adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
-
 ## 🚦 Project Status & Roadmap
 
 ### **Current Phase: Early Research & Proof-of-Concept (v0.1.0)**
@@ -108,19 +97,52 @@ We welcome contributions from developers, researchers, and security experts!
 
 📍 See our [Development Phases](https://github.com/BlockchainCommons/Community/blob/master/release-path.md) for the full roadmap.
 
-## 🛡 Security & Trust
+## ❗ Issue Management
 
-### 🕵️ Reporting Security Issues
+We recommend starting general issues in GitHub's 💬 [Community Discussions](https://github.com/orgs/OpenIntegrityProject/discussions) to encourage open dialogue before they are formally moved to our ❗ [Initial Issue Tracker](https://github.com/OpenIntegrityProject/community/issues). 
 
-🔒 If you discover a security issue, please report it responsibly:
+However, in alignment with our commitment to decentralized repository management, we plan to develop GitHub Action scripts that will automatically populate `/issues/` directories within each repository. This will allow issues to be mirrored across multiple Git hosting platforms, ensuring greater resilience and accessibility beyond GitHub.
+
+## 🌟 Support the Open Integrity Project
+
+- ⭐ **Star** our repositories to show support
+- 📢 **Sharing** your discoveries with your network
+- 💬 Ask a question or engage in discussions in our [**Community Discussions**](https://github.com/orgs/OpenIntegrityProject/discussions)
+- ✍️ Report an issue in our [**Initial Issue Tracker**](https://github.com/OpenIntegrityProject/community/issues)
+- 🔎 Find [**Good First Issues**](https://github.com/OpenIntegrityProject/community/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) to get started
+- 💰 Become a financial patron to our host [Blockchain Commons via GitHub Sponsors](https://github.com/sponsors/BlockchainCommons)
+
+For commercial support, visit: **[Blockchain Commons Support](https://www.blockchaincommons.com/support/)**.
+
+## 🤝 How to Contribute
+
+We welcome contributions from developers, researchers, and security experts!
+
+1. Read our **[Contributing Guide](CONTRIBUTING.md)**
+2. Fork the repository & create a feature branch
+3. Implement your feature or fix
+4. Digitally sign all your commits with an SSH signing key (`gitc commit -S`) and attribute authorship (`git commit --signoff`).
+4. Submit a **Pull Request** for review
+
+All contributors must adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
+
+## 👨‍💻 **Lead Developer**
+**Christopher Allen** ([@ChristopherA](https://github.com/ChristopherA)), [\<ChristopherA@LifeWithAlacrity.com/>](mailto:ChristopherA@LifeWithAlacrity.com)
+
+For a full list of contributors, see [CONTRIBUTORS.md](CONTRIBUTORS.md).
+
+## 🕵️ Security & Trust
+
+Ensuring security is a top priority for the Open Integrity Project. If you discover a security vulnerability, please report it responsibly:
+
 - **Email**: [team@BlockchainCommons.com](mailto:team@BlockchainCommons.com)
-- **GPG Encrypted Reports**: See [SECURITY.md](SECURITY.md) for details
+- **GPG Encrypted Reports**: See [SECURITY.md](https://github.com/OpenIntegrityProject/docs/blob/main/SECURITY.md) for responsible disclosure guidelines
 
 ### 👥 Security Contacts
 
 | Name              | Email                              | GPG Fingerprint                                     |
-|-------------------|------------------------------------|-----------------------------------------------------|
-| Christopher Allen | ChristopherA@LifeWithAlacrity.com  | FDFE 14A5 4ECB 30FC 5D22  74EF F8D3 6C91 3574 05ED  |
+|-------------------|----------------------------------|-----------------------------------------------------|
+| Christopher Allen | ChristopherA@LifeWithAlacrity.com | FDFE 14A5 4ECB 30FC 5D22  74EF F8D3 6C91 3574 05ED  |
 
 ## 📞 Contact & Support
 
@@ -128,29 +150,10 @@ We welcome contributions from developers, researchers, and security experts!
 - **General Questions**: [Community Discussions](https://github.com/orgs/OpenIntegrityProject/discussions)
 - **Bug Reports**: [Initial Issue Tracker](https://github.com/OpenIntegrityProject/community/issues)
 
-## ❗ Issue Management
-
-We recommend starting general issues in GitHub's 💬 [Community Discussions](https://github.com/orgs/OpenIntegrityProject/discussions) to encourage open dialogue before they are formally moved to our ❗ [Initial Issue Tracker](https://github.com/OpenIntegrityProject/community/issues) (also on GitHub). However, in alignment with our commitment to decentralized repository management, on our roadmap is to develop GitHub Action scripts that will automatically populate /issues directories within each repository. This will allow issues to be mirrored across multiple Git hosting platforms, ensuring greater resilience and accessibility beyond GitHub.
-
-## 🌟 Support the Open Integrity Project
-
-If you find this project valuable, consider:
-⭐ Starring the repository
-💬 Engaging in discussions
-📢 Sharing with your network
-💰 Supporting our host [Blockchain Commons via GitHub Sponsors](https://github.com/sponsors/BlockchainCommons)
-
-For commercial support, visit: **[Blockchain Commons Support](https://www.blockchaincommons.com/support/)**.
-
-### 👨‍💻 **Lead Developer**
-**Christopher Allen** ([@ChristopherA](https://github.com/ChristopherA)), [\<ChristopherA@LifeWithAlacrity.com/>](mailto:ChristopherA@LifeWithAlacrity.com)
-
-For a full list of contributors, see [CONTRIBUTORS.md](CONTRIBUTORS.md).
-
 ## 📜 Copyright & License
 
 Unless otherwise noted, all files are ©2025 Open Integrity Project / Blockchain Commons LLC., and licensed under the [BSD 2-Clause Pluse Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html) – See [LICENSE](LICENSE) for details.
 
-### 🌍 About Us
+## 🌍 About Us
 
-📖 The **Open Integrity Project** is an [Open Development](https://www.blockchaincommons.com/articles/Open-Development/) initiative hosted by [Blockchain Commons](https://www.BlockchainCommons.com), dedicated to advancing **open, interoperable, secure & compassionate digital infrastructure**, and embracing the [Gordian Principles](https://developer.BlockchainCommons.com/principles/) of **independence, privacy, resilience, and openness**.
+The **Open Integrity Project** is an [Open Development](https://www.blockchaincommons.com/articles/Open-Development/) initiative hosted by [Blockchain Commons](https://www.BlockchainCommons.com), dedicated to advancing **open, interoperable, secure & compassionate digital infrastructure**, and embracing the [Gordian Principles](https://developer.BlockchainCommons.com/principles/) of **independence, privacy, resilience, and openness**.
