@@ -78,10 +78,10 @@ For a deeper dive, check out our **[Architecture Overview](docs/architecture.md)
 ## 🚦 Project Status & Roadmap
 
 ### **Current Phase: Early Research & Proof-of-Concept (v0.1.0)**
-🔹 Core concepts & initial implementation complete  
-🔹 Seeking community feedback for improvements  
-🔹 Developing integration with CI/CD & key management solutions  
-🔹 **Not yet production-ready**  
+🔹 Core concepts & initial implementation complete
+🔹 Seeking community feedback for improvements
+🔹 Developing integration with CI/CD & key management solutions
+🔹 **Not yet production-ready**
 
 📍 See our [Development Phases](https://github.com/BlockchainCommons/Community/blob/master/release-path.md) for the full roadmap.
 
@@ -126,18 +126,12 @@ We welcome contributions from developers, researchers, and security experts!
 |-------------------|------------------------------------|-----------------------------------------------------|
 | Christopher Allen | ChristopherA@LifeWithAlacrity.com  | FDFE 14A5 4ECB 30FC 5D22  74EF F8D3 6C91 3574 05ED  |
 
-## 📜 License
-
-All files **BSD 2-Clause Plus Patent License** unless otherwise noted – See [LICENSE](LICENSE) for details.
-
-📖 Open Integrity is an open-source project hosted by [Blockchain Commons](https://www.blockchaincommons.com), dedicated to advancing **secure, transparent, and open digital infrastructure**.
-
 ## 🌟 Support Open Integrity
 
 If you find this project valuable, consider:
-⭐ Starring the repository  
-💬 Engaging in discussions  
-📢 Sharing with your network  
+⭐ Starring the repository
+💬 Engaging in discussions
+📢 Sharing with your network
 💰 Supporting [Blockchain Commons via GitHub Sponsors](https://github.com/sponsors/BlockchainCommons)
 
 For commercial support, visit: **[Blockchain Commons Support](https://www.blockchaincommons.com/support/)**.
@@ -148,11 +142,15 @@ For commercial support, visit: **[Blockchain Commons Support](https://www.blockc
 - **General Questions**: [Community Discussions](../../discussions)
 - **Bug Reports**: [Issue Tracker](../../issues)
 
-### **Lead Developer**  
-**Christopher Allen** ([@ChristopherA](https://github.com/ChristopherA))  
+### **Lead Developer**
+**Christopher Allen** ([@ChristopherA](https://github.com/ChristopherA)), [ChristopherA@LifeWithAlacrity.com](mailto:ChristopherA@LifeWithAlacrity.com)
 
 For a full list of contributors, see [CONTRIBUTORS.md](CONTRIBUTORS.md).
 
+## 📜 Copyright & License
+
+Unless otherwise noted, all files are ©2025 Open Integrity Project / Blockchain Commons LLC., and licensed under the [BSD 2-Clause Pluse Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html) – See [LICENSE](LICENSE) for details.
+
 ---
 
-*Open Integrity is a project of [Blockchain Commons](https://www.blockchaincommons.com), empowering open-source cryptographic security & trust.*
+_📖 The **Open Integrity Project** is an [Open Development](https://www.blockchaincommons.com/articles/Open-Development/) initiative hosted by [Blockchain Commons](https://www.BlockchainCommons.com), dedicated to advancing **open, interoperable, secure & compassionate digital infrastructure**, and embracing the [Gordian Principles](https://developer.BlockchainCommons.com/principles/) of **independence, privacy, resilience, and openness**._
