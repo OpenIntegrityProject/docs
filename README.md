@@ -1,4 +1,5 @@
 _file: `https://github.com/OpenIntegrityProject/docs/blob/main/README.md`_
+_did: `did:repo:9bc5422ae37af0e2adfc2f6a202db259734f0a48/blob/main/README.md`_
 
 # Open Integrity Project - `README.md`
 _(Last updated: 2025-02-26, Christopher Allen <ChristopherA@LifeWithAlacrity.com>)_
