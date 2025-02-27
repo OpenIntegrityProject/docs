@@ -114,25 +114,25 @@ We welcome contributions from developers, researchers, and security experts!
 
 ## 🛡 Security & Trust
 
-### Reporting Security Issues
+### 🕵️ Reporting Security Issues
 
 🔒 If you discover a security issue, please report it responsibly:
 - **Email**: [team@BlockchainCommons.com](mailto:team@BlockchainCommons.com)
 - **GPG Encrypted Reports**: See [SECURITY.md](SECURITY.md) for details
 
-### Security Contacts
+### 👥 Security Contacts
 
 | Name              | Email                              | GPG Fingerprint                                     |
 |-------------------|------------------------------------|-----------------------------------------------------|
 | Christopher Allen | ChristopherA@LifeWithAlacrity.com  | FDFE 14A5 4ECB 30FC 5D22  74EF F8D3 6C91 3574 05ED  |
 
-## 🌟 Support Open Integrity
+## 🌟 Support the Open Integrity Project
 
 If you find this project valuable, consider:
 ⭐ Starring the repository
 💬 Engaging in discussions
 📢 Sharing with your network
-💰 Supporting [Blockchain Commons via GitHub Sponsors](https://github.com/sponsors/BlockchainCommons)
+💰 Supporting our host [Blockchain Commons via GitHub Sponsors](https://github.com/sponsors/BlockchainCommons)
 
 For commercial support, visit: **[Blockchain Commons Support](https://www.blockchaincommons.com/support/)**.
 
@@ -151,6 +151,6 @@ For a full list of contributors, see [CONTRIBUTORS.md](CONTRIBUTORS.md).
 
 Unless otherwise noted, all files are ©2025 Open Integrity Project / Blockchain Commons LLC., and licensed under the [BSD 2-Clause Pluse Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html) – See [LICENSE](LICENSE) for details.
 
----
+### 🌍 About Us
 
-_📖 The **Open Integrity Project** is an [Open Development](https://www.blockchaincommons.com/articles/Open-Development/) initiative hosted by [Blockchain Commons](https://www.BlockchainCommons.com), dedicated to advancing **open, interoperable, secure & compassionate digital infrastructure**, and embracing the [Gordian Principles](https://developer.BlockchainCommons.com/principles/) of **independence, privacy, resilience, and openness**._
+📖 The **Open Integrity Project** is an [Open Development](https://www.blockchaincommons.com/articles/Open-Development/) initiative hosted by [Blockchain Commons](https://www.BlockchainCommons.com), dedicated to advancing **open, interoperable, secure & compassionate digital infrastructure**, and embracing the [Gordian Principles](https://developer.BlockchainCommons.com/principles/) of **independence, privacy, resilience, and openness**.
