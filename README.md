@@ -1,4 +1,4 @@
-# Open Integrity Project: Documentation - `README.md`
+# Open Integrity Project: Documentation Hub
 > - _did: `did:repo:9bc5422ae37af0e2adfc2f6a202db259734f0a48/blob/main/README.md`_
 > - _github: `https://github.com/OpenIntegrityProject/docs/blob/main/README.md`_
 > - _updated: 2025-02-26 by Christopher Allen <ChristopherA@LifeWithAlacrity.com>_
