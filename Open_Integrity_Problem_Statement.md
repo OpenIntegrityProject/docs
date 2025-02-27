@@ -1,7 +1,7 @@
-_file: `Open_Integrity_Problem_Statement.md`_
+_file: `https://github.com/OpenIntegrityProject/docs/blob/main/Open_Integrity_Problem_Statement.md`_
 
 # Open Integrity Project: A Cryptographic Root of Trust for Git Repositories
-(last updated 2024-02-25, Christopher Allen <ChristopherA@LifeWithAlacrity.com> Github/Twitter/Bluesky: @ChristopherA)
+(last updated 2024-02-26, Christopher Allen <ChristopherA@LifeWithAlacrity.com> Github/Twitter/Bluesky: @ChristopherA)
 
 ## Introduction
 
