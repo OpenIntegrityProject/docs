@@ -62,9 +62,8 @@ This repository contains the documentation for the Open Integrity Project, offer
 
 ### 📝 Planned Resources
 
-- 🚀 [Getting Started](Open_Integrity_Getting-Started.md) – Learn the concept and set up your first Open Integrity repository
-- 🏛 [Architecture](Open_Integrity_Architecture.md) – System design & implementation details
 - 🚀 [Getting Started](Open_Integrity_Getting_Started.md) – Understand the concepts by following a step-by-step guide to set up your first Open Integrity repository
+- 🏛 [Architecture](Open_Integrity_Architecture.md) – System design & implementation details
 
 ### 🛠 Implementation
 
