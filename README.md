@@ -38,7 +38,7 @@ Whether you're a developer, security researcher, or open-source maintainer, Open
 - 🔒 [Security Policy](SECURITY.md) – Reporting vulnerabilities
 
 ### 🛠 Implementation
-- 📂 [`/scripts`](scripts/) – Core cryptographic tools & automation
+- 📂 [`/scripts`](https://github.com/OpenIntegrityProject/scripts) – Core cryptographic tools & automation scripts (proof-of-concept implementations)
 - 🏗 [`/examples`](examples/) – Sample implementations & workflows
 - 🔬 [`/tests`](tests/) – Unit and integration tests
 - 📑 [`/docs`](docs/) – Technical documentation
@@ -85,6 +85,22 @@ For a deeper dive, check out our **[Architecture Overview](docs/architecture.md)
 
 📍 See our [Development Phases](https://github.com/BlockchainCommons/Community/blob/master/release-path.md) for the full roadmap.
 
+## Documentation Repository Contents
+
+This repository contains the core documentation for the Open Integrity Project:
+
+### Root Directory
+- `README.md` - This document, providing an overview of the Open Integrity Project
+- `Open_Integrity_Problem_Statement.md` - Comprehensive explanation of the challenges Open Integrity addresses and proposed solutions for establishing cryptographic roots of trust in Git repositories
+- `Open_Integrity-CLI_One_Liners.md` - Practical command-line CLI one-liner utilities for creating, inspecting, and managing Open Integrity repositories
+- `Open_Integrity_Repo_Directory_Structure.md` - Reference guide for the standard directory structure of Open Integrity-compliant repositories
+
+### Additional Resources (Planned)
+- `Open_Integrity_Architecture.md` - Technical design and implementation details
+- `Open_Integrity_Getting_Started.md` - Step-by-step tutorial guide to Open Integrity
+
+This documentation hub provides both high-level concepts and practical implementation details to guide users in establishing and maintaining cryptographic trust in their Git repositories.
+
 ## 🤝 How to Contribute
 
 We welcome contributions from developers, researchers, and security experts!
@@ -106,15 +122,15 @@ We welcome contributions from developers, researchers, and security experts!
 
 ### Security Contacts
 
-| Name              | Email                                  | GPG Fingerprint                                    |
-|------------------|----------------------------------------|--------------------------------------------------|
-| Christopher Allen | ChristopherA@LifeWithAlacrity.com     | FDFE 14A5 4ECB 30FC 5D22  74EF F8D3 6C91 3574 05ED |
+| Name              | Email                              | GPG Fingerprint                                     |
+|-------------------|------------------------------------|-----------------------------------------------------|
+| Christopher Allen | ChristopherA@LifeWithAlacrity.com  | FDFE 14A5 4ECB 30FC 5D22  74EF F8D3 6C91 3574 05ED  |
 
 ## 📜 License
 
-**BSD 2-Clause Plus Patent License** – See [LICENSE](LICENSE) for details.
+All files **BSD 2-Clause Plus Patent License** unless otherwise noted – See [LICENSE](LICENSE) for details.
 
-📖 Open Integrity is an open-source project by [Blockchain Commons](https://www.blockchaincommons.com), dedicated to advancing **secure, transparent, and open digital infrastructure**.
+📖 Open Integrity is an open-source project hosted by [Blockchain Commons](https://www.blockchaincommons.com), dedicated to advancing **secure, transparent, and open digital infrastructure**.
 
 ## 🌟 Support Open Integrity
 
