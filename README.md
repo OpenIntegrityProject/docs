@@ -3,7 +3,7 @@
 > - _github: `https://github.com/OpenIntegrityProject/docs/blob/main/README.md`_
 > - _updated: 2025-02-26 by Christopher Allen <ChristopherA@LifeWithAlacrity.com>_
 
-## Introduction
+## 📖 Introduction
 
 _**Cryptographic Roots of Trust for Open Source Development**_
 
@@ -28,78 +28,65 @@ Whether you're a developer, security researcher, or open-source maintainer, Open
 - 🔗 **Trust Delegation** – Enable controlled transition from inception key to authorized signers.
 - 🌍 **Platform-Agnostic Validation** – Work across GitHub, GitLab, and self-hosted solutions.
 
-## 📚 Repository Structure
-
-### 📖 Core Documentation
-- 📜 [Problem Statement](docs/problem-statement.md) – Challenges & proposed solutions
-- 🏛 [Architecture](docs/architecture.md) – System design & implementation details
-- 🚀 [Getting Started](docs/getting-started.md) – Quick setup guide
-- 🤝 [Contributing Guidelines](CONTRIBUTING.md) – How to contribute
-- 🔒 [Security Policy](SECURITY.md) – Reporting vulnerabilities
-
-### 🛠 Implementation
-- 📂 [`/scripts`](https://github.com/OpenIntegrityProject/scripts) – Core cryptographic tools & automation scripts (proof-of-concept implementations)
-- 🏗 [`/examples`](examples/) – Sample implementations & workflows
-- 🔬 [`/tests`](tests/) – Unit and integration tests
-- 📑 [`/docs`](docs/) – Technical documentation
-- 🌍 [`/website`](website/) – Project website source
-
-### 📌 Project Resources
-- 📖 [Documentation Website](https://openintegrity.org)
-- 💬 [Community Discussions](../../discussions)
-- 🐛 [Issue Tracker](../../issues)
-- 📋 [Project Roadmap](../../projects/1)
-
-## 🚀 Quick Start
-
-Follow the [Getting Started Guide](docs/getting-started.md) to:
-1. Set up your development environment
-2. Create a repository with an inception commit establishing your root of trust
-3. Choose your trust model:
-   - Direct verification using the inception key
-   - OR delegated verification through authorized signers
-4. Run integrity audits on existing repositories
-
-For a deeper dive, check out our **[Architecture Overview](docs/architecture.md)**.
-
 ## 🔑 Key Features
 
 - **Inception Commits** – Immutable starting points that combine:
   - Empty commit for SHA-1 collision resistance
   - Ricardian Contract defining trust rules
-  - SSH signature providing strong cryptographic proof
+  - SSH signature providing strong cryptographic proofs
 - **Trust Models**:
   - Direct inception key verification
   - Delegated verification through authorized signers
 - **Automated Tamper Detection** – Integrity checks throughout history
-- **Cross-Platform Trust** – GitHub, GitLab, or self-hosted support
 - **Audit Tools** – Comprehensive repository inspection
+- **Cross-Platform Trust** – GitHub, GitLab, P2P, or self-hosted support
 
-## 🚦 Project Status & Roadmap
+## 📚 Repository Structure
 
-### **Current Phase: Early Research & Proof-of-Concept (v0.1.0)**
-🔹 Core concepts & initial implementation complete
-🔹 Seeking community feedback for improvements
-🔹 Developing integration with CI/CD & key management solutions
-🔹 **Not yet production-ready**
+This repository contains the documentation for the Open Integrity Project, offering both high-level concepts and practical guidance on establishing and maintaining cryptographic trust using Git repositories.
 
-📍 See our [Development Phases](https://github.com/BlockchainCommons/Community/blob/master/release-path.md) for the full roadmap.
+### 📁 Core Documentation
 
-## Documentation Repository Contents
+- 📜 [Problem Statement](Open_Integrity_Problem_Statement.md) – Challenges & solutions for cryptographic roots of trust using Git repositories
+- 📟 [CLI One-Liners](Open_Integrity-CLI_One_Liners.md) – Practical command-line shortcuts for Open Integrity
+- ├- [Repository Structure](Open_Integrity_Repo_Directory_Structure.md) – Open Integrity repository structure reference
+- 🤝 [Contributing Guidelines](CONTRIBUTING.md) – How to contribute
+- 🔒 [Security Policy](SECURITY.md) – Reporting vulnerabilities
 
-This repository contains the core documentation for the Open Integrity Project:
+### 📌 Project Resources
 
-### Root Directory
-- `README.md` - This document, providing an overview of the Open Integrity Project
-- `Open_Integrity_Problem_Statement.md` - Comprehensive explanation of the challenges Open Integrity addresses and proposed solutions for establishing cryptographic roots of trust in Git repositories
-- `Open_Integrity-CLI_One_Liners.md` - Practical command-line CLI one-liner utilities for creating, inspecting, and managing Open Integrity repositories
-- `Open_Integrity_Repo_Directory_Structure.md` - Reference guide for the standard directory structure of Open Integrity-compliant repositories
+- 📖 [Documentation Website](https://OpenIntegrityProject.info)
+- 📋 [Project Roadmap](https://github.com/orgs/OpenIntegrityProject/projects)
+- 💬 [Community Discussions](https://github.com/orgs/OpenIntegrityProject/discussions)
+- ❗ [Initial Issue Tracker](https://github.com/OpenIntegrityProject/community/issues)
 
-### Additional Resources (Planned)
-- `Open_Integrity_Architecture.md` - Technical design and implementation details
-- `Open_Integrity_Getting_Started.md` - Step-by-step tutorial guide to Open Integrity
+### 📝 Planned Resources
 
-This documentation hub provides both high-level concepts and practical implementation details to guide users in establishing and maintaining cryptographic trust in their Git repositories.
+- 🚀 [Getting Started](Open_Integrity_Getting-Started.md) – Learn the concept and set up your first Open Integrity repository
+- 🏛 [Architecture](Open_Integrity_Architecture.md) – System design & implementation details
+- 🚀 [Getting Started](Open_Integrity_Getting_Started.md) – Understand the concepts by following a step-by-step guide to set up your first Open Integrity repository
+
+### 🛠 Implementation
+
+- ⚙️ [`scripts`](https://github.com/OpenIntegrityProject/scripts) – Essential Open Integrity Project tools & automation scripts
+- 📜 [`/requirements`](https://github.com/OpenIntegrityProject/scripts/requirements/) – Requirements documents for Open Integrity Project scripts
+- ❗ [`/issues`](https://github.com/OpenIntegrityProject/scripts/issues/) – Tracks known issues and planned improvements
+- 🔎 [`/tests`](https://github.com/OpenIntegrityProject/scripts/tests/) – Comprehensive regression tests for inspecting Open Integrity scripts and overall project functionality
+- ✂️ [`/snippets`](https://github.com/OpenIntegrityProject/scripts/snippets/) – Small utility scripts (< 200 lines) for specific tasks
+  - 📜 [`/snippets/requirements`](https://github.com/OpenIntegrityProject/scripts/snippets/requirements/) – Requirements for individual snippet scripts
+  - 🔎 [`/snippets/tests`](https://github.com/OpenIntegrityProject/scripts/snippets/tests/) – Regression test scripts for ensuring snippet functionality
+
+## 🚀 Quick Start
+
+Follow the [Getting Started Guide](Open_Integrity_Getting-Started.md) to:
+1. Set up your development environment for signing
+2. Create a repository with an inception commit establishing your root of trust
+3. Choose your trust model:
+   - Direct verification using the inception key
+   - OR delegated verification through authorized signers
+4. Run Open Integrity audits on your repositories
+
+For a deeper dive, check out our [Problem Statement](Open_Integrity_Problem_Statement.md) and **[Architecture Overview](Open_Integrity_Architecture.md)**.
 
 ## 🤝 How to Contribute
 
@@ -111,6 +98,16 @@ We welcome contributions from developers, researchers, and security experts!
 4. Submit a **Pull Request** for review
 
 📜 All contributors must adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
+
+## 🚦 Project Status & Roadmap
+
+### **Current Phase: Early Research & Proof-of-Concept (v0.1.0)**
+🔹 Core concepts & initial implementation complete
+🔹 Seeking community feedback for improvements
+🔹 Developing integration with CI/CD & key management solutions
+🔹 **Not yet production-ready**
+
+📍 See our [Development Phases](https://github.com/BlockchainCommons/Community/blob/master/release-path.md) for the full roadmap.
 
 ## 🛡 Security & Trust
 
@@ -126,6 +123,16 @@ We welcome contributions from developers, researchers, and security experts!
 |-------------------|------------------------------------|-----------------------------------------------------|
 | Christopher Allen | ChristopherA@LifeWithAlacrity.com  | FDFE 14A5 4ECB 30FC 5D22  74EF F8D3 6C91 3574 05ED  |
 
+## 📞 Contact & Support
+
+- **Security Issues**: [team@BlockchainCommons.com](mailto:team@BlockchainCommons.com)
+- **General Questions**: [Community Discussions](https://github.com/orgs/OpenIntegrityProject/discussions)
+- **Bug Reports**: [Initial Issue Tracker](https://github.com/OpenIntegrityProject/community/issues)
+
+## ❗ Issue Management
+
+We recommend starting general issues in GitHub's 💬 [Community Discussions](https://github.com/orgs/OpenIntegrityProject/discussions) to encourage open dialogue before they are formally moved to our ❗ [Initial Issue Tracker](https://github.com/OpenIntegrityProject/community/issues) (also on GitHub). However, in alignment with our commitment to decentralized repository management, on our roadmap is to develop GitHub Action scripts that will automatically populate /issues directories within each repository. This will allow issues to be mirrored across multiple Git hosting platforms, ensuring greater resilience and accessibility beyond GitHub.
+
 ## 🌟 Support the Open Integrity Project
 
 If you find this project valuable, consider:
@@ -135,12 +142,6 @@ If you find this project valuable, consider:
 💰 Supporting our host [Blockchain Commons via GitHub Sponsors](https://github.com/sponsors/BlockchainCommons)
 
 For commercial support, visit: **[Blockchain Commons Support](https://www.blockchaincommons.com/support/)**.
-
-## 📞 Contact & Support
-
-- **Security Issues**: [team@BlockchainCommons.com](mailto:team@BlockchainCommons.com)
-- **General Questions**: [Community Discussions](../../discussions)
-- **Bug Reports**: [Issue Tracker](../../issues)
 
 ### 👨‍💻 **Lead Developer**
 **Christopher Allen** ([@ChristopherA](https://github.com/ChristopherA)), [\<ChristopherA@LifeWithAlacrity.com/>](mailto:ChristopherA@LifeWithAlacrity.com)
