@@ -142,8 +142,8 @@ For commercial support, visit: **[Blockchain Commons Support](https://www.blockc
 - **General Questions**: [Community Discussions](../../discussions)
 - **Bug Reports**: [Issue Tracker](../../issues)
 
-### **Lead Developer**
-**Christopher Allen** ([@ChristopherA](https://github.com/ChristopherA)), [ChristopherA@LifeWithAlacrity.com](mailto:ChristopherA@LifeWithAlacrity.com)
+### 👨‍💻 **Lead Developer**
+**Christopher Allen** ([@ChristopherA](https://github.com/ChristopherA)), [\<ChristopherA@LifeWithAlacrity.com/>](mailto:ChristopherA@LifeWithAlacrity.com)
 
 For a full list of contributors, see [CONTRIBUTORS.md](CONTRIBUTORS.md).
 
