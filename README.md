@@ -41,7 +41,7 @@ Whether you're a developer, security researcher, or open-source maintainer, Open
 - **Audit Tools** – Comprehensive repository inspection
 - **Cross-Platform Trust** – GitHub, GitLab, P2P, or self-hosted support
 
-## 📚 Repository Structure
+## 📚 Documentation Organization
 
 This repository contains the documentation for the Open Integrity Project, offering both high-level concepts and practical guidance on establishing and maintaining cryptographic trust using Git repositories.
 
