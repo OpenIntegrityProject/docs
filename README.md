@@ -3,6 +3,8 @@
 > - _github: `https://github.com/OpenIntegrityProject/docs/blob/main/README.md`_
 > - _updated: 2025-02-26 by Christopher Allen <ChristopherA@LifeWithAlacrity.com>_
 
+## Introduction
+
 _**Cryptographic Roots of Trust for Open Source Development**_
 
 [![License](https://img.shields.io/badge/License-BSD_2--Clause--Patent-blue.svg)](https://spdx.org/licenses/BSD-2-Clause-Patent.html)
